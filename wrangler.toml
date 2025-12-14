@@ -1,0 +1,3 @@
+name = "d1233367-playlist"
+main = "worker.js"
+compatibility_date = "2025-10-16"
